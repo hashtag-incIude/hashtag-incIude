@@ -22,7 +22,12 @@ Hi, I'm Anukul Kumar, a Mobile Developer, who loves exploring different stuff.
 - 🛠 Currently working with Kotlin, Java, Javascript, iOS, Firebase; 
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: anukul@neweradevelopers.com;
+- ⚡ Fun fact1: I spend almost 12 hours listening songs everyday.
+- ⚡️ Fun-Fact2: Anything is possible;
 
 ![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=hashtag-incIude&show_icons=true&hide_border=true)
+
+<a href="https://github.com/hashtag-incIude">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashtag-incIude&theme=light&hide_langs_below=1" />
+</a>
